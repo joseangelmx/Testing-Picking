@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+08WvDtDOCF7FF9B/xf7rt6R31F4NUzBpVn2FqeLPhenakjcJh2tyqD14TlTORxwqFUnsxz7ZfDtxTNS9eyPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josea\\Documents\\v10project\\testing-picking\\testing-picking\\testing-picking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josea\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Josea\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Josea\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Josea\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
